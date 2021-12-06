@@ -60,20 +60,6 @@ xaringanExtra::use_extra_styles(
 ```
 
 
-## Grupos de trabalho
-.large[
-.pink[ 
-
-**Grupo 1:** Caíque Alves França, Diego de Freitas Goes e Silva, Igor Felipe Eduardo Ferreira, Luiz Pedro Xavier Carvalho   
-
-**Grupo 2:** Vitor Abrantes, Ana Luiza Cuha, Alexandre Roberto, Gustavo Martins
-
-**Grupo 3:** Luis, Joice e Warlley
-
-]
-]
-
----
 class: center, middle
 
 ## Retrospecto
